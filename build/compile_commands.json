@@ -1,0 +1,20 @@
+[
+{
+  "directory": "E:/Unic/Laba_2/build",
+  "command": "E:\\MinGw\\bin\\g++.exe   -g -o CMakeFiles\\main.dir\\main.cpp.obj -c E:\\Unic\\Laba_2\\main.cpp",
+  "file": "E:/Unic/Laba_2/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.obj"
+},
+{
+  "directory": "E:/Unic/Laba_2/build",
+  "command": "E:\\MinGw\\bin\\g++.exe   -g -o CMakeFiles\\main.dir\\fraction.cpp.obj -c E:\\Unic\\Laba_2\\fraction.cpp",
+  "file": "E:/Unic/Laba_2/fraction.cpp",
+  "output": "CMakeFiles/main.dir/fraction.cpp.obj"
+},
+{
+  "directory": "E:/Unic/Laba_2/build",
+  "command": "E:\\MinGw\\bin\\g++.exe   -g -o CMakeFiles\\main.dir\\nod.cpp.obj -c E:\\Unic\\Laba_2\\nod.cpp",
+  "file": "E:/Unic/Laba_2/nod.cpp",
+  "output": "CMakeFiles/main.dir/nod.cpp.obj"
+}
+]
